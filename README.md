@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonSol
 - 👀 I'm interested in web development
-- 🌱 I'm currently learning JavaScript, HTML and CSS
+- 🌱 I'm currently learning JavaScript, HTML, CSS and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email solukov.anton@gmail.com
 
